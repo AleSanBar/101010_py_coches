@@ -1,0 +1,5 @@
+# Configurar finales de línea automáticos para todos los archivos de texto
+* text=auto
+
+# Configurar finales de línea específicos para archivos .txt
+*.txt text
